@@ -17,6 +17,9 @@ A personalised config for Team Fortress 2.
 * [No Backstab Animation](https://gamebanana.com/mods/206417)
 * [Less Distracting Explosions](https://gamebanana.com/mods/12444)
 * [Improved Sentry Buster Explosion](https://gamebanana.com/mods/12430)
+* [Altered Explosions & Building FX](https://gamebanana.com/mods/12457)
+* [Altered Cow Mangler Effects](https://gamebanana.com/mods/12396)
+* [TF2 Classic Class Portraits](https://gamebanana.com/mods/26067)
 
 ### Installation
 1. Download ahud by clicking `Download ZIP` from the green `Clone or download` button
