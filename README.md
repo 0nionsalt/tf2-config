@@ -19,7 +19,10 @@ A personalised config for Team Fortress 2.
 * [Improved Sentry Buster Explosion](https://gamebanana.com/mods/12430)
 * [Altered Explosions & Building FX](https://gamebanana.com/mods/12457)
 * [Altered Cow Mangler Effects](https://gamebanana.com/mods/12396)
-* [TF2 Classic Class Portraits](https://gamebanana.com/mods/26067)
+* [Unique Rockets](https://gamebanana.com/mods/11856)#
+* [Nemesis Inspired STOMP! & YIKES! Icons](https://gamebanana.com/mods/11892)
+* [Nemesis Crits and Mini Crits](https://gamebanana.com/mods/12211)
+* [Nemesis, Bonk, Double Donk and Miss](https://gamebanana.com/mods/11856)
 
 ### Installation
 1. Download ahud by clicking `Download ZIP` from the green `Clone or download` button
