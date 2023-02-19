@@ -17,6 +17,7 @@ A personalised config for Team Fortress 2.
 * [No Backstab Animation](https://gamebanana.com/mods/206417)
 * [Old Sticky Jumper and Rocket Jumper](https://gamebanana.com/mods/198851)
 * [Less Distracting Explosions](https://gamebanana.com/mods/12444)
+* [Improved Sentry Buster Explosion](https://gamebanana.com/mods/12430)
 
 ### Installation
 1. Download ahud by clicking `Download ZIP` from the green `Clone or download` button
