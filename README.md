@@ -1,4 +1,4 @@
-# nekfresh-config
+# nekfresh config
 
 A personalised config for Team Fortress 2.
 
@@ -13,9 +13,8 @@ A personalised config for Team Fortress 2.
 
 ### Mods (Optional)
 * [No Hats](https://gamebanana.com/mods/205768)
-* [Shell Removal](https://gamebanana.com/mods/200467)
+* [Bullet Shells Removal](https://gamebanana.com/mods/200467)
 * [No Backstab Animation](https://gamebanana.com/mods/206417)
-* [Old Sticky Jumper and Rocket Jumper](https://gamebanana.com/mods/198851)
 * [Less Distracting Explosions](https://gamebanana.com/mods/12444)
 * [Improved Sentry Buster Explosion](https://gamebanana.com/mods/12430)
 
