@@ -1,4 +1,4 @@
-# nekfresh-config
+# nekfresh config
 
 A personalised config for Team Fortress 2.
 
@@ -13,10 +13,16 @@ A personalised config for Team Fortress 2.
 
 ### Mods (Optional)
 * [No Hats](https://gamebanana.com/mods/205768)
-* [Shell Removal](https://gamebanana.com/mods/200467)
+* [Bullet Shells Removal](https://gamebanana.com/mods/200467)
 * [No Backstab Animation](https://gamebanana.com/mods/206417)
-* [Old Sticky Jumper and Rocket Jumper](https://gamebanana.com/mods/198851)
 * [Less Distracting Explosions](https://gamebanana.com/mods/12444)
+* [Improved Sentry Buster Explosion](https://gamebanana.com/mods/12430)
+* [Altered Explosions & Building FX](https://gamebanana.com/mods/12457)
+* [Altered Cow Mangler Effects](https://gamebanana.com/mods/12396)
+* [Unique Rockets](https://gamebanana.com/mods/11856)#
+* [Nemesis Inspired STOMP! & YIKES! Icons](https://gamebanana.com/mods/11892)
+* [Nemesis Crits and Mini Crits](https://gamebanana.com/mods/12211)
+* [Nemesis, Bonk, Double Donk and Miss](https://gamebanana.com/mods/11856)
 
 ### Installation
 1. Download ahud by clicking `Download ZIP` from the green `Clone or download` button
