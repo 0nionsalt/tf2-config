@@ -5,13 +5,11 @@ A personalised config for Team Fortress 2.
 ### Launch Options
 +exec autoexec.cfg +mat_showlowresimage 1 -dxlevel 81 -w 1920 -h 1080 -freq 144 -threads 4 -novid -noborder -noforcemspd -snoforceformat -noforcemaccel -nojoy -nosteamcontroller -console -reuse -nocrashdialog -high -softparticlesdefaultoff -particles 1 -noipx -primarysound
 
-### Mods (Recommended)
+### Mods That I use
 * [FOV Fix Pack](https://gamebanana.com/mods/198862)
 * [Original Hand Fix](https://gamebanana.com/mods/206388)
 * [Missing Kill Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2156604959)
 * [Improved & Aligned Medibeam](https://gamebanana.com/mods/12020)
-
-### Mods (Optional)
 * [No Hats](https://gamebanana.com/mods/205768)
 * [Bullet Shells Removal](https://gamebanana.com/mods/200467)
 * [Sniper Dot Removal](https://gamebanana.com/mods/12320)
