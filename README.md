@@ -22,6 +22,11 @@ A personalised config for Team Fortress 2.
 * [Nemesis Inspired STOMP! & YIKES! Icons](https://gamebanana.com/mods/11892)
 * [Nemesis Crits and Mini Crits](https://gamebanana.com/mods/12211)
 * [Nemesis, Bonk, Double Donk and Miss](https://gamebanana.com/mods/11856)
+* [The Improved Specular Map & Team Color Pack](https://gamebanana.com/mods/410782)
+* [Consistent Viewmodels Pack](https://gamebanana.com/mods/425647)
+* [Crit-Sheen Fixes & Improvements](https://gamebanana.com/mods/439399)
+* [Center Print Font Fix](https://gamebanana.com/mods/438355)
+* [TF2 Bullet Decals Fix](https://gamebanana.com/mods/436313)
 
 ### Installation
 1. Download ahud by clicking `Download ZIP` from the green `Clone or download` button
