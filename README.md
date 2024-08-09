@@ -3,7 +3,7 @@
 A config for Team Fortress 2.
 
 ### Launch Options
-+exec autoexec.cfg +mat_showlowresimage 1 -dxlevel 81 -w 1920 -h 1080 -freq 144 -threads 4 -novid -noborder -noforcemspd -snoforceformat -noforcemaccel -nojoy -nosteamcontroller -console -reuse -nocrashdialog -high -softparticlesdefaultoff -particles 1 -noipx -primarysound
++exec autoexec.cfg +mat_showlowresimage 1 -dxlevel 80 -w 1920 -h 1080 -freq 144 -threads 4 -novid -noborder -noforcemspd -snoforceformat -noforcemaccel -nojoy -nosteamcontroller -console -reuse -nocrashdialog -high -softparticlesdefaultoff -particles 1 -noipx -primarysound
 
 ### Mods That I use
 * [FOV Fix Pack](https://gamebanana.com/mods/198862)
