@@ -7,6 +7,8 @@ A config for Team Fortress 2.
 
 ### Mods That I use
 * [FOV Fix Pack](https://gamebanana.com/mods/198862)
+* [Sniper Hands Fix](https://gamebanana.com/mods/439875)
+* [Conscientious Objector Material Fix](https://gamebanana.com/mods/204721)
 * [Original Hand Fix](https://gamebanana.com/mods/206388)
 * [Missing Kill Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2156604959)
 * [Improved & Aligned Medibeam](https://gamebanana.com/mods/12020)
