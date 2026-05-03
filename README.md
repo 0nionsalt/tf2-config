@@ -11,6 +11,7 @@ A config for Team Fortress 2.
 * [No Backstab Animation](https://gamebanana.com/mods/206417)
 * [Improved & Aligned Medibeam](https://gamebanana.com/mods/12020)
 * [Less Distracting Explosions](https://gamebanana.com/mods/12444)
+* [Flat Textures](https://gamebanana.com/mods/663744)
 
 ### Quality Of Life Mods
 * [FOV Fix Pack](https://gamebanana.com/mods/198862)
@@ -27,6 +28,7 @@ A config for Team Fortress 2.
 
 * ### Additional Mods
 * [No Hats](https://gamebanana.com/mods/205768)
+* [Old Halloween Boss hp Bar + Old Sounds](https://gamebanana.com/mods/385491)
 * [Sniper Dot Removal](https://gamebanana.com/mods/12320)
 
 ### Installation
